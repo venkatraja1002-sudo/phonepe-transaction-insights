@@ -139,6 +139,10 @@ GitHub: https://github.com/PhonePe/pulse
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## 👨‍💻 Author
 
 Venkat Raja C  
