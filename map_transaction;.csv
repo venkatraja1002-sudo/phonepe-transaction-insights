@@ -1,0 +1,1001 @@
+id,state,year,quarter,district,transaction_count,transaction_amount
+1,andaman-&-nicobar-islands,2018,1,"north and middle andaman district",442,931663.0770939873
+2,andaman-&-nicobar-islands,2018,1,"south andaman district",5688,12560249.34366581
+3,andaman-&-nicobar-islands,2018,1,"nicobars district",528,1139848.801225994
+4,andaman-&-nicobar-islands,2018,2,"north and middle andaman district",825,1317863.0834906558
+5,andaman-&-nicobar-islands,2018,2,"south andaman district",9395,23948235.51634325
+6,andaman-&-nicobar-islands,2018,2,"nicobars district",1120,3072436.9081196385
+7,andaman-&-nicobar-islands,2018,3,"north and middle andaman district",1283,4901529.518499676
+8,andaman-&-nicobar-islands,2018,3,"south andaman district",13511,44268112.46425246
+9,andaman-&-nicobar-islands,2018,3,"nicobars district",1471,6387829.151558982
+10,andaman-&-nicobar-islands,2018,4,"north and middle andaman district",2137,7955635.917688001
+11,andaman-&-nicobar-islands,2018,4,"south andaman district",20136,75411840.8018554
+12,andaman-&-nicobar-islands,2018,4,"nicobars district",1485,7180859.354911782
+13,andaman-&-nicobar-islands,2019,1,"north and middle andaman district",3264,9561708.736298349
+14,andaman-&-nicobar-islands,2019,1,"south andaman district",25683,85501972.38780196
+15,andaman-&-nicobar-islands,2019,1,"nicobars district",1539,7236059.549389593
+16,andaman-&-nicobar-islands,2019,2,"north and middle andaman district",3371,8612103.137888122
+17,andaman-&-nicobar-islands,2019,2,"south andaman district",28490,102530955.71341258
+18,andaman-&-nicobar-islands,2019,2,"nicobars district",1828,9111650.82436246
+19,andaman-&-nicobar-islands,2019,3,"north and middle andaman district",4049,11481466.283356793
+20,andaman-&-nicobar-islands,2019,3,"south andaman district",27421,91023888.32848613
+21,andaman-&-nicobar-islands,2019,3,"nicobars district",2300,11566421.475451011
+22,andaman-&-nicobar-islands,2019,4,"north and middle andaman district",4716,13524056.784573946
+23,andaman-&-nicobar-islands,2019,4,"south andaman district",27843,110930312.20611623
+24,andaman-&-nicobar-islands,2019,4,"nicobars district",2600,12384161.52668771
+25,andaman-&-nicobar-islands,2020,1,"north and middle andaman district",5674,14697371.617857102
+26,andaman-&-nicobar-islands,2020,1,"south andaman district",32713,134679396.90582755
+27,andaman-&-nicobar-islands,2020,1,"nicobars district",2911,12099543.773590054
+28,andaman-&-nicobar-islands,2020,2,"north and middle andaman district",10979,22447714.061058953
+29,andaman-&-nicobar-islands,2020,2,"south andaman district",48088,132855778.74838585
+30,andaman-&-nicobar-islands,2020,2,"nicobars district",3895,14341508.60470232
+31,andaman-&-nicobar-islands,2020,3,"north and middle andaman district",16747,33486883.370425556
+32,andaman-&-nicobar-islands,2020,3,"south andaman district",95323,282366109.20523936
+33,andaman-&-nicobar-islands,2020,3,"nicobars district",5413,22166453.754695386
+34,andaman-&-nicobar-islands,2020,4,"north and middle andaman district",29349,68941322.38839513
+35,andaman-&-nicobar-islands,2020,4,"south andaman district",186494,523122462.88302904
+36,andaman-&-nicobar-islands,2020,4,"nicobars district",8688,35218871.04342849
+37,andaman-&-nicobar-islands,2021,1,"north and middle andaman district",27358,75027255.27919498
+38,andaman-&-nicobar-islands,2021,1,"south andaman district",207092,669604045.1248703
+39,andaman-&-nicobar-islands,2021,1,"nicobars district",10302,39075266.9856904
+40,andaman-&-nicobar-islands,2021,2,"north and middle andaman district",39200,90233388.79463302
+41,andaman-&-nicobar-islands,2021,2,"south andaman district",286907,760893020.5704944
+42,andaman-&-nicobar-islands,2021,2,"nicobars district",15307,48020606.74716837
+43,andaman-&-nicobar-islands,2021,3,"north and middle andaman district",46592,118254865.82750683
+44,andaman-&-nicobar-islands,2021,3,"south andaman district",382418,1116789010.6459613
+45,andaman-&-nicobar-islands,2021,3,"nicobars district",20754,74980519.3281361
+46,andaman-&-nicobar-islands,2021,4,"north and middle andaman district",53115,156486112.28732437
+47,andaman-&-nicobar-islands,2021,4,"south andaman district",558571,1694794708.0093334
+48,andaman-&-nicobar-islands,2021,4,"nicobars district",24437,81329281.0269996
+49,andaman-&-nicobar-islands,2022,1,"north and middle andaman district",60059,161624878.52274162
+50,andaman-&-nicobar-islands,2022,1,"south andaman district",705512,1872991195.902684
+51,andaman-&-nicobar-islands,2022,1,"nicobars district",29177,94414127.64974089
+52,andaman-&-nicobar-islands,2022,2,"north and middle andaman district",72573,195693167.78757268
+53,andaman-&-nicobar-islands,2022,2,"south andaman district",954875,2357326563.362071
+54,andaman-&-nicobar-islands,2022,2,"nicobars district",43769,132900618.93062323
+55,andaman-&-nicobar-islands,2022,3,"north and middle andaman district",79574,211581970.34202656
+56,andaman-&-nicobar-islands,2022,3,"south andaman district",1455255,2967719400.849909
+57,andaman-&-nicobar-islands,2022,3,"nicobars district",49550,131330400.94545083
+58,andaman-&-nicobar-islands,2022,4,"north and middle andaman district",93297,241431284.3558103
+59,andaman-&-nicobar-islands,2022,4,"south andaman district",1835592,3600887266.099448
+60,andaman-&-nicobar-islands,2022,4,"nicobars district",58646,142355853.97352526
+61,andaman-&-nicobar-islands,2023,1,"north and middle andaman district",152187,392080332
+62,andaman-&-nicobar-islands,2023,1,"south andaman district",2030078,3867385426
+63,andaman-&-nicobar-islands,2023,1,"nicobars district",94127,202062829
+64,andaman-&-nicobar-islands,2023,2,"north and middle andaman district",181149,462414675
+65,andaman-&-nicobar-islands,2023,2,"south andaman district",2417058,4297737197
+66,andaman-&-nicobar-islands,2023,2,"nicobars district",109568,230192364
+67,andaman-&-nicobar-islands,2023,3,"north and middle andaman district",198547,495623030
+68,andaman-&-nicobar-islands,2023,3,"south andaman district",2771397,4462201588
+69,andaman-&-nicobar-islands,2023,3,"nicobars district",128432,253772173
+70,andaman-&-nicobar-islands,2023,4,"north and middle andaman district",230234,540759631
+71,andaman-&-nicobar-islands,2023,4,"south andaman district",3311962,5417264997
+72,andaman-&-nicobar-islands,2023,4,"nicobars district",153587,311527871
+73,andaman-&-nicobar-islands,2024,1,"north and middle andaman district",266400,601756070
+74,andaman-&-nicobar-islands,2024,1,"south andaman district",3751724,5952049462
+75,andaman-&-nicobar-islands,2024,1,"nicobars district",166796,305346303
+76,andaman-&-nicobar-islands,2024,2,"north and middle andaman district",313301,676844858
+77,andaman-&-nicobar-islands,2024,2,"south andaman district",4153251,6285248054
+78,andaman-&-nicobar-islands,2024,2,"nicobars district",186672,333687418
+79,andaman-&-nicobar-islands,2024,3,"north and middle andaman district",364075,724234808
+80,andaman-&-nicobar-islands,2024,3,"south andaman district",4704639,6567147442
+81,andaman-&-nicobar-islands,2024,3,"nicobar district",210536,372462759
+82,andaman-&-nicobar-islands,2024,4,"north and middle andaman district",411230,759100984
+83,andaman-&-nicobar-islands,2024,4,"south andaman district",5419850,7760167334
+84,andaman-&-nicobar-islands,2024,4,"nicobar district",232820,401676455
+85,andhra-pradesh,2018,1,"east godavari district",943935,1235785515.5997267
+86,andhra-pradesh,2018,1,"srikakulam district",458921,587778028.9183557
+87,andhra-pradesh,2018,1,"spsr nellore district",531612,676643237.8069417
+88,andhra-pradesh,2018,1,"vizianagaram district",420990,505783445.78162
+89,andhra-pradesh,2018,1,"visakhapatnam district",1256469,1749966196.5049946
+90,andhra-pradesh,2018,1,"prakasam district",534757,748990775.8676485
+91,andhra-pradesh,2018,1,"anantapur district",638664,788830646.0324218
+92,andhra-pradesh,2018,1,"ysr district",487333,681481931.0936775
+93,andhra-pradesh,2018,1,"west godavari district",577090,853547668.7532666
+94,andhra-pradesh,2018,1,"kurnool district",679623,764905298.7350456
+95,andhra-pradesh,2018,1,"chittoor district",830324,1009621878.0870512
+96,andhra-pradesh,2018,1,"guntur district",815932,1108686589.0266829
+97,andhra-pradesh,2018,1,"krishna district",863935,1284255179.6156201
+98,andhra-pradesh,2018,2,"east godavari district",1221677,2168914928.4239016
+99,andhra-pradesh,2018,2,"srikakulam district",559868,929392017.3670053
+100,andhra-pradesh,2018,2,"spsr nellore district",780454,1542057934.0108962
+101,andhra-pradesh,2018,2,"vizianagaram district",529588,811711367.5080048
+102,andhra-pradesh,2018,2,"visakhapatnam district",1641192,2987853607.2939095
+103,andhra-pradesh,2018,2,"prakasam district",739991,1571167562.1276276
+104,andhra-pradesh,2018,2,"anantapur district",937023,1690366079.0557928
+105,andhra-pradesh,2018,2,"ysr district",690842,1415500367.6861844
+106,andhra-pradesh,2018,2,"west godavari district",786033,1688025212.3045945
+107,andhra-pradesh,2018,2,"kurnool district",968439,1531888665.6843233
+108,andhra-pradesh,2018,2,"chittoor district",1185723,1990419125.8937118
+109,andhra-pradesh,2018,2,"guntur district",1088101,2108475811.7859967
+110,andhra-pradesh,2018,2,"krishna district",1224987,2448141593.4919834
+111,andhra-pradesh,2018,3,"east godavari district",3226907,3551247095.307447
+112,andhra-pradesh,2018,3,"srikakulam district",1073883,1318322236.598471
+113,andhra-pradesh,2018,3,"spsr nellore district",1308890,2215938596.185108
+114,andhra-pradesh,2018,3,"vizianagaram district",970132,1163546006.895916
+115,andhra-pradesh,2018,3,"visakhapatnam district",3394576,4821892253.393524
+116,andhra-pradesh,2018,3,"prakasam district",1319651,2346453445.483843
+117,andhra-pradesh,2018,3,"anantapur district",1815215,2681787750.464165
+118,andhra-pradesh,2018,3,"ysr district",1557444,2235904512.2542048
+119,andhra-pradesh,2018,3,"west godavari district",1431282,2309078492.8058147
+120,andhra-pradesh,2018,3,"kurnool district",2921189,2908389261.539773
+121,andhra-pradesh,2018,3,"chittoor district",2297429,3283517630.720593
+122,andhra-pradesh,2018,3,"guntur district",1912529,3127764663.180438
+123,andhra-pradesh,2018,3,"krishna district",2396934,3754202654.3844614
+124,andhra-pradesh,2018,4,"east godavari district",3052762,4652624623.436675
+125,andhra-pradesh,2018,4,"srikakulam district",1252807,1870278609.504549
+126,andhra-pradesh,2018,4,"spsr nellore district",1814997,3293448556.9734454
+127,andhra-pradesh,2018,4,"vizianagaram district",1386787,1817673252.5417767
+128,andhra-pradesh,2018,4,"visakhapatnam district",4791421,7366635864.849373
+129,andhra-pradesh,2018,4,"prakasam district",1692862,3255254226.03728
+130,andhra-pradesh,2018,4,"anantapur district",2286391,3975878156.329829
+131,andhra-pradesh,2018,4,"ysr district",1732527,3252340063.2478595
+132,andhra-pradesh,2018,4,"west godavari district",1688482,3237504255.4632454
+133,andhra-pradesh,2018,4,"kurnool district",2508530,3626544852.4069242
+134,andhra-pradesh,2018,4,"chittoor district",3166201,4979093890.223491
+135,andhra-pradesh,2018,4,"guntur district",2546620,4730251217.696959
+136,andhra-pradesh,2018,4,"krishna district",2839161,5416251838.130407
+137,andhra-pradesh,2019,1,"east godavari district",5440146,7382264724.59952
+138,andhra-pradesh,2019,1,"srikakulam district",2526855,3407912878.4152584
+139,andhra-pradesh,2019,1,"spsr nellore district",3333584,5161932216.216368
+140,andhra-pradesh,2019,1,"vizianagaram district",2798241,3364576948.299301
+141,andhra-pradesh,2019,1,"visakhapatnam district",9690866,13459857440.552685
+142,andhra-pradesh,2019,1,"prakasam district",2931081,4807527779.215151
+143,andhra-pradesh,2019,1,"anantapur district",3891336,6044730653.191345
+144,andhra-pradesh,2019,1,"ysr district",2852197,4915811593.896078
+145,andhra-pradesh,2019,1,"west godavari district",2829437,4623764455.47309
+146,andhra-pradesh,2019,1,"kurnool district",4193432,5541564892.509682
+147,andhra-pradesh,2019,1,"chittoor district",6486813,8223371732.233585
+148,andhra-pradesh,2019,1,"guntur district",4846553,7765934169.404485
+149,andhra-pradesh,2019,1,"krishna district",5443981,9061346433.072681
+150,andhra-pradesh,2019,2,"east godavari district",4699261,9116404622.47651
+151,andhra-pradesh,2019,2,"srikakulam district",2019203,4066576539.936839
+152,andhra-pradesh,2019,2,"spsr nellore district",3141891,6880873007.4820595
+153,andhra-pradesh,2019,2,"vizianagaram district",2272320,4443041665.039663
+154,andhra-pradesh,2019,2,"visakhapatnam district",11705738,20797479804.029076
+155,andhra-pradesh,2019,2,"prakasam district",2670529,6262396448.455349
+156,andhra-pradesh,2019,2,"anantapur district",3578836,7830782361.377665
+157,andhra-pradesh,2019,2,"ysr district",2606284,6376856828.130632
+158,andhra-pradesh,2019,2,"west godavari district",2402074,5676818258.955046
+159,andhra-pradesh,2019,2,"kurnool district",3895824,7358285187.018034
+160,andhra-pradesh,2019,2,"chittoor district",5983308,10982727976.224325
+161,andhra-pradesh,2019,2,"guntur district",5005275,10405246943.481495
+162,andhra-pradesh,2019,2,"krishna district",6428472,13437029115.620754
+163,andhra-pradesh,2019,3,"east godavari district",6537303,11387726470.57774
+164,andhra-pradesh,2019,3,"srikakulam district",2556296,4610131289.524039
+165,andhra-pradesh,2019,3,"spsr nellore district",4150195,8256600118.735449
+166,andhra-pradesh,2019,3,"vizianagaram district",2861581,4922069039.19216
+167,andhra-pradesh,2019,3,"visakhapatnam district",16694947,26944837120.046288
+168,andhra-pradesh,2019,3,"prakasam district",3430750,7354502261.150911
+169,andhra-pradesh,2019,3,"anantapur district",4889720,9554081289.488277
+170,andhra-pradesh,2019,3,"ysr district",3296586,7447544274.2117815
+171,andhra-pradesh,2019,3,"west godavari district",3179541,6627629029.01413
+172,andhra-pradesh,2019,3,"kurnool district",5139134,9025632779.412457
+173,andhra-pradesh,2019,3,"chittoor district",8201783,13837455758.755266
+174,andhra-pradesh,2019,3,"guntur district",6942304,13075661264.188034
+175,andhra-pradesh,2019,3,"krishna district",8408474,16404073560.500784
+176,andhra-pradesh,2019,4,"east godavari district",9285739,16816774065.301317
+177,andhra-pradesh,2019,4,"srikakulam district",3712555,6832369301.879345
+178,andhra-pradesh,2019,4,"spsr nellore district",5877804,11786014089.194027
+179,andhra-pradesh,2019,4,"vizianagaram district",3998234,7175851807.068796
+180,andhra-pradesh,2019,4,"visakhapatnam district",23594874,39133296330.044624
+181,andhra-pradesh,2019,4,"prakasam district",4865473,10604077824.801035
+182,andhra-pradesh,2019,4,"anantapur district",6764112,13887248889.064066
+183,andhra-pradesh,2019,4,"ysr district",4793157,10865073855.730783
+184,andhra-pradesh,2019,4,"west godavari district",4596479,9710614747.20177
+185,andhra-pradesh,2019,4,"kurnool district",7001958,13233105728.54823
+186,andhra-pradesh,2019,4,"chittoor district",11246986,19298476027.875484
+187,andhra-pradesh,2019,4,"guntur district",9761330,18565626418.035915
+188,andhra-pradesh,2019,4,"krishna district",11719402,23039786404.04664
+189,andhra-pradesh,2020,1,"east godavari district",11346242,21854701379.428688
+190,andhra-pradesh,2020,1,"srikakulam district",4835092,9777575594.177538
+191,andhra-pradesh,2020,1,"spsr nellore district",7430247,15387829694.446861
+192,andhra-pradesh,2020,1,"vizianagaram district",5042066,9879174240.920494
+193,andhra-pradesh,2020,1,"visakhapatnam district",27115031,48809747614.678894
+194,andhra-pradesh,2020,1,"prakasam district",6318396,14169104764.526735
+195,andhra-pradesh,2020,1,"anantapur district",8466129,17864325752.82528
+196,andhra-pradesh,2020,1,"ysr district",6031255,14059924636.819912
+197,andhra-pradesh,2020,1,"west godavari district",5919670,12995834340.716236
+198,andhra-pradesh,2020,1,"kurnool district",8246869,17022710311.813046
+199,andhra-pradesh,2020,1,"chittoor district",13257740,23441848567.344193
+200,andhra-pradesh,2020,1,"guntur district",11493331,22992734620.64621
+201,andhra-pradesh,2020,1,"krishna district",12175289,24481702770.71471
+202,andhra-pradesh,2020,2,"east godavari district",13130334,26319906327.32029
+203,andhra-pradesh,2020,2,"srikakulam district",6425515,12153650076.875832
+204,andhra-pradesh,2020,2,"spsr nellore district",9454274,20665376460.772232
+205,andhra-pradesh,2020,2,"vizianagaram district",6690313,12819344389.545382
+206,andhra-pradesh,2020,2,"visakhapatnam district",25300401,48293889917.41437
+207,andhra-pradesh,2020,2,"prakasam district",8844580,19846026726.904335
+208,andhra-pradesh,2020,2,"anantapur district",10473739,22094006659.412506
+209,andhra-pradesh,2020,2,"ysr district",8033609,19597207268.132023
+210,andhra-pradesh,2020,2,"west godavari district",7273096,16585866855.159784
+211,andhra-pradesh,2020,2,"kurnool district",9821381,22419372061.805172
+212,andhra-pradesh,2020,2,"chittoor district",14848197,27361300300.01902
+213,andhra-pradesh,2020,2,"guntur district",12308707,27463593607.839108
+214,andhra-pradesh,2020,2,"krishna district",12313709,26964149095.366295
+215,andhra-pradesh,2020,3,"east godavari district",17972431,39300043804.75851
+216,andhra-pradesh,2020,3,"srikakulam district",8286289,18029574581.337425
+217,andhra-pradesh,2020,3,"spsr nellore district",16468209,39128324534.03022
+218,andhra-pradesh,2020,3,"vizianagaram district",8236703,17567816576.501263
+219,andhra-pradesh,2020,3,"visakhapatnam district",34421299,67628440368.111465
+220,andhra-pradesh,2020,3,"prakasam district",12266310,31221704852.44969
+221,andhra-pradesh,2020,3,"anantapur district",14447683,34102037972.65785
+222,andhra-pradesh,2020,3,"ysr district",11934653,32037007334.12973
+223,andhra-pradesh,2020,3,"west godavari district",10412351,25408608725.754295
+224,andhra-pradesh,2020,3,"kurnool district",13243292,32529351107.17173
+225,andhra-pradesh,2020,3,"chittoor district",20501863,42811566246.16463
+226,andhra-pradesh,2020,3,"guntur district",17601395,42531195809.75448
+227,andhra-pradesh,2020,3,"krishna district",19110457,44788458672.084435
+228,andhra-pradesh,2020,4,"east godavari district",25989490,58732615663.118416
+229,andhra-pradesh,2020,4,"srikakulam district",11092184,25222520275.27882
+230,andhra-pradesh,2020,4,"spsr nellore district",20934374,49115443663.37911
+231,andhra-pradesh,2020,4,"vizianagaram district",10580824,24094847668.445065
+232,andhra-pradesh,2020,4,"visakhapatnam district",46551467,91879823025.40399
+233,andhra-pradesh,2020,4,"prakasam district",16176867,41852443493.515396
+234,andhra-pradesh,2020,4,"anantapur district",20996384,49732610814.26222
+235,andhra-pradesh,2020,4,"ysr district",15676878,42572974713.44026
+236,andhra-pradesh,2020,4,"west godavari district",15674762,40310975762.603455
+237,andhra-pradesh,2020,4,"kurnool district",18737323,44718203115.22612
+238,andhra-pradesh,2020,4,"chittoor district",29590411,61505711149.79541
+239,andhra-pradesh,2020,4,"guntur district",26136538,60641872021.25432
+240,andhra-pradesh,2020,4,"krishna district",27981050,64461504667.60723
+241,andhra-pradesh,2021,1,"east godavari district",26190701,60027984987.96951
+242,andhra-pradesh,2021,1,"srikakulam district",11160473,26486623313.092724
+243,andhra-pradesh,2021,1,"spsr nellore district",22541428,52210333201.53073
+244,andhra-pradesh,2021,1,"vizianagaram district",10514582,24153782497.243248
+245,andhra-pradesh,2021,1,"visakhapatnam district",48248923,95308386037.84721
+246,andhra-pradesh,2021,1,"prakasam district",15175395,41396223622.174774
+247,andhra-pradesh,2021,1,"anantapur district",20102957,48353870395.01808
+248,andhra-pradesh,2021,1,"ysr district",15374473,42570919448.50447
+249,andhra-pradesh,2021,1,"west godavari district",16015685,42124030669.36126
+250,andhra-pradesh,2021,1,"kurnool district",17918524,44941629659.56964
+251,andhra-pradesh,2021,1,"chittoor district",29342609,60947491846.66089
+252,andhra-pradesh,2021,1,"guntur district",27445045,64207987853.108406
+253,andhra-pradesh,2021,1,"krishna district",29717175,69715406644.53485
+254,andhra-pradesh,2021,2,"east godavari district",31717908,74604325863.66068
+255,andhra-pradesh,2021,2,"srikakulam district",13546232,32298129544.540867
+256,andhra-pradesh,2021,2,"spsr nellore district",30290406,72283071757.09679
+257,andhra-pradesh,2021,2,"vizianagaram district",12689494,29140685236.830723
+258,andhra-pradesh,2021,2,"visakhapatnam district",54390299,114439012713.35336
+259,andhra-pradesh,2021,2,"prakasam district",19944047,54535328043.04135
+260,andhra-pradesh,2021,2,"anantapur district",25123346,60987487571.279915
+261,andhra-pradesh,2021,2,"ysr district",18457361,52523527031.02132
+262,andhra-pradesh,2021,2,"west godavari district",20950964,57233116236.18796
+263,andhra-pradesh,2021,2,"kurnool district",21972396,56659287474.995804
+264,andhra-pradesh,2021,2,"chittoor district",34344902,73654690122.43158
+265,andhra-pradesh,2021,2,"guntur district",32968819,82356914463.83287
+266,andhra-pradesh,2021,2,"krishna district",36370960,90021923049.96454
+267,andhra-pradesh,2021,3,"east godavari district",39572714,89380370072.7078
+268,andhra-pradesh,2021,3,"srikakulam district",15639768,34836400769.876816
+269,andhra-pradesh,2021,3,"spsr nellore district",34411958,77839676988.30869
+270,andhra-pradesh,2021,3,"vizianagaram district",14510005,31383541628.212524
+271,andhra-pradesh,2021,3,"visakhapatnam district",69220981,136945652159.26515
+272,andhra-pradesh,2021,3,"prakasam district",24116580,63367713446.928055
+273,andhra-pradesh,2021,3,"anantapur district",30366444,70291248155.64975
+274,andhra-pradesh,2021,3,"ysr district",22439316,60683557724.652336
+275,andhra-pradesh,2021,3,"west godavari district",26245039,66647238455.1675
+276,andhra-pradesh,2021,3,"kurnool district",26377809,62527453761.59807
+277,andhra-pradesh,2021,3,"chittoor district",42628568,89371931753.04831
+278,andhra-pradesh,2021,3,"guntur district",41675093,96525353090.12305
+279,andhra-pradesh,2021,3,"krishna district",44828275,104417897558.58972
+280,andhra-pradesh,2021,4,"east godavari district",48992531,106725597026.00356
+281,andhra-pradesh,2021,4,"srikakulam district",18501857,39713657870.15512
+282,andhra-pradesh,2021,4,"spsr nellore district",41921081,92256405076.26547
+283,andhra-pradesh,2021,4,"vizianagaram district",17253059,36577529464.9687
+284,andhra-pradesh,2021,4,"visakhapatnam district",82711538,159530099772.73474
+285,andhra-pradesh,2021,4,"prakasam district",27858275,71323060008.47623
+286,andhra-pradesh,2021,4,"anantapur district",36129136,81239787006.64764
+287,andhra-pradesh,2021,4,"ysr district",26340348,69081850069.2033
+288,andhra-pradesh,2021,4,"west godavari district",33235175,81292461575.08182
+289,andhra-pradesh,2021,4,"kurnool district",31782248,73968947669.64754
+290,andhra-pradesh,2021,4,"chittoor district",51119640,103985734663.73514
+291,andhra-pradesh,2021,4,"guntur district",50919286,115553993673.17337
+292,andhra-pradesh,2021,4,"krishna district",55489829,125015323207.89836
+293,andhra-pradesh,2022,1,"east godavari district",54738830,121067103712.79568
+294,andhra-pradesh,2022,1,"srikakulam district",20990782,46898912115.649216
+295,andhra-pradesh,2022,1,"spsr nellore district",47645702,104895571602.13988
+296,andhra-pradesh,2022,1,"vizianagaram district",19278262,41994853361.58879
+297,andhra-pradesh,2022,1,"visakhapatnam district",88233362,170120350591.26004
+298,andhra-pradesh,2022,1,"prakasam district",31340975,79494373254.71565
+299,andhra-pradesh,2022,1,"anantapur district",40613148,90197023268.43825
+300,andhra-pradesh,2022,1,"ysr district",29783739,78421693518.90942
+301,andhra-pradesh,2022,1,"west godavari district",37271259,92397939903.60938
+302,andhra-pradesh,2022,1,"kurnool district",35093633,81568420500.54749
+303,andhra-pradesh,2022,1,"chittoor district",58561024,117900595508.634
+304,andhra-pradesh,2022,1,"guntur district",57226996,129673727687.08942
+305,andhra-pradesh,2022,1,"krishna district",61826199,139690081529.49048
+306,andhra-pradesh,2022,2,"east godavari district",62072845,135531452997.6391
+307,andhra-pradesh,2022,2,"srikakulam district",23727353,53754764122.4327
+308,andhra-pradesh,2022,2,"spsr nellore district",54838708,121941082043.49483
+309,andhra-pradesh,2022,2,"vizianagaram district",21766135,47294745020.495636
+310,andhra-pradesh,2022,2,"visakhapatnam district",101387402,193242841582.14285
+311,andhra-pradesh,2022,2,"prakasam district",36163507,90435082545.97766
+312,andhra-pradesh,2022,2,"anantapur district",46099366,102138758015.76915
+313,andhra-pradesh,2022,2,"ysr district",33154559,87601310069.59737
+314,andhra-pradesh,2022,2,"west godavari district",44409239,107973244960.42824
+315,andhra-pradesh,2022,2,"kurnool district",40165692,92409350855.50198
+316,andhra-pradesh,2022,2,"chittoor district",67507661,136435445124.75616
+317,andhra-pradesh,2022,2,"guntur district",66315749,147098141568.7623
+318,andhra-pradesh,2022,2,"krishna district",73525814,163997729295.93134
+319,andhra-pradesh,2022,3,"east godavari district",61467134,129677722169.74829
+320,andhra-pradesh,2022,3,"srikakulam district",22126541,46899962921.785614
+321,andhra-pradesh,2022,3,"spsr nellore district",42116582,95099325968.25972
+322,andhra-pradesh,2022,3,"vizianagaram district",20440645,42513313394.84207
+323,andhra-pradesh,2022,3,"visakhapatnam district",97434546,181124419863.61444
+324,andhra-pradesh,2022,3,"prakasam district",35376080,87475230073.46387
+325,andhra-pradesh,2022,3,"anantapur district",45165363,97735649608.10074
+326,andhra-pradesh,2022,3,"ysr district",33119038,86016932181.12372
+327,andhra-pradesh,2022,3,"west godavari district",43635951,101706854744.31876
+328,andhra-pradesh,2022,3,"kurnool district",39557913,88415335176.31995
+329,andhra-pradesh,2022,3,"chittoor district",65751781,133053581631.6395
+330,andhra-pradesh,2022,3,"guntur district",65612317,141588522953.23773
+331,andhra-pradesh,2022,3,"krishna district",71051144,153770559025.69125
+332,andhra-pradesh,2022,4,"east godavari district",68016055,136531110139.86256
+333,andhra-pradesh,2022,4,"srikakulam district",23693779,47726411107.88628
+334,andhra-pradesh,2022,4,"spsr nellore district",42582064,92085916180.6851
+335,andhra-pradesh,2022,4,"vizianagaram district",22205190,44467386404.34758
+336,andhra-pradesh,2022,4,"visakhapatnam district",103790055,185306149744.73108
+337,andhra-pradesh,2022,4,"prakasam district",37211077,88105031866.36835
+338,andhra-pradesh,2022,4,"anantapur district",48299601,101533878537.23433
+339,andhra-pradesh,2022,4,"ysr district",35201596,87360426792.81667
+340,andhra-pradesh,2022,4,"west godavari district",47919930,105335724990.59325
+341,andhra-pradesh,2022,4,"kurnool district",43524766,94667441029.08345
+342,andhra-pradesh,2022,4,"chittoor district",70322534,136840859888.18155
+343,andhra-pradesh,2022,4,"guntur district",70723763,146938735166.52365
+344,andhra-pradesh,2022,4,"krishna district",76526667,157826011193.35443
+345,andhra-pradesh,2023,1,"east godavari district",115196449,223454724672
+346,andhra-pradesh,2023,1,"srikakulam district",42209999,86486032409
+347,andhra-pradesh,2023,1,"spsr nellore district",71318689,143967164643
+348,andhra-pradesh,2023,1,"vizianagaram district",38838861,76472384525
+349,andhra-pradesh,2023,1,"visakhapatnam district",164358781,277211090180
+350,andhra-pradesh,2023,1,"prakasam district",63671149,141672839638
+351,andhra-pradesh,2023,1,"anantapur district",82127373,162287796625
+352,andhra-pradesh,2023,1,"ysr district",59768512,140117633668
+353,andhra-pradesh,2023,1,"west godavari district",79094558,165941144654
+354,andhra-pradesh,2023,1,"kurnool district",72405172,149100361797
+355,andhra-pradesh,2023,1,"chittoor district",120192355,218037027226
+356,andhra-pradesh,2023,1,"guntur district",114246185,226244225817
+357,andhra-pradesh,2023,1,"krishna district",122104381,238058890676
+358,andhra-pradesh,2023,2,"east godavari district",131243375,245134717109
+359,andhra-pradesh,2023,2,"srikakulam district",47633204,93082175904
+360,andhra-pradesh,2023,2,"spsr nellore district",82056071,165181391414
+361,andhra-pradesh,2023,2,"vizianagaram district",43625851,82671020353
+362,andhra-pradesh,2023,2,"visakhapatnam district",184918179,303874597259
+363,andhra-pradesh,2023,2,"prakasam district",73598725,158428689659
+364,andhra-pradesh,2023,2,"anantapur district",91695174,180050369328
+365,andhra-pradesh,2023,2,"ysr district",66809788,156231915019
+366,andhra-pradesh,2023,2,"west godavari district",92533269,187699526244
+367,andhra-pradesh,2023,2,"kurnool district",81475907,166991990104
+368,andhra-pradesh,2023,2,"chittoor district",136283483,245550525910
+369,andhra-pradesh,2023,2,"guntur district",132035450,254140764680
+370,andhra-pradesh,2023,2,"krishna district",141748488,267001403933
+371,andhra-pradesh,2023,3,"east godavari district",148701666,260414286361
+372,andhra-pradesh,2023,3,"srikakulam district",51382393,91818203167
+373,andhra-pradesh,2023,3,"spsr nellore district",93875073,176593750929
+374,andhra-pradesh,2023,3,"vizianagaram district",47856766,83289704541
+375,andhra-pradesh,2023,3,"visakhapatnam district",209884966,328927220951
+376,andhra-pradesh,2023,3,"prakasam district",84447202,171207298619
+377,andhra-pradesh,2023,3,"anantapur district",104539628,192477441164
+378,andhra-pradesh,2023,3,"ysr district",76091693,168218516193
+379,andhra-pradesh,2023,3,"west godavari district",102962058,191891823401
+380,andhra-pradesh,2023,3,"kurnool district",92890445,172979053545
+381,andhra-pradesh,2023,3,"chittoor district",152863845,265404757144
+382,andhra-pradesh,2023,3,"guntur district",150246761,270651818044
+383,andhra-pradesh,2023,3,"krishna district",159421907,279540224039
+384,andhra-pradesh,2023,4,"east godavari district",162793144,282329255747
+385,andhra-pradesh,2023,4,"srikakulam district",56291337,97021746702
+386,andhra-pradesh,2023,4,"spsr nellore district",97721962,179306028468
+387,andhra-pradesh,2023,4,"vizianagaram district",53248760,90289502507
+388,andhra-pradesh,2023,4,"visakhapatnam district",223584765,344512874812
+389,andhra-pradesh,2023,4,"prakasam district",89721677,174929737360
+390,andhra-pradesh,2023,4,"anantapur district",113698752,203367177888
+391,andhra-pradesh,2023,4,"ysr district",83729195,176644897379
+392,andhra-pradesh,2023,4,"west godavari district",114825704,209237892746
+393,andhra-pradesh,2023,4,"kurnool district",103816175,190597527675
+394,andhra-pradesh,2023,4,"chittoor district",163521593,274132458092
+395,andhra-pradesh,2023,4,"guntur district",160724947,281806839570
+396,andhra-pradesh,2023,4,"krishna district",173309415,298339038877
+397,andhra-pradesh,2024,1,"east godavari district",179489444,306324309402
+398,andhra-pradesh,2024,1,"srikakulam district",66267698,118669200655
+399,andhra-pradesh,2024,1,"spsr nellore district",108549115,190803645040
+400,andhra-pradesh,2024,1,"vizianagaram district",61170983,105672797741
+401,andhra-pradesh,2024,1,"visakhapatnam district",238418938,363341573689
+402,andhra-pradesh,2024,1,"prakasam district",99550457,187480623851
+403,andhra-pradesh,2024,1,"anantapur district",125240418,212681689201
+404,andhra-pradesh,2024,1,"ysr district",94211451,190227479302
+405,andhra-pradesh,2024,1,"west godavari district",127602250,228733104931
+406,andhra-pradesh,2024,1,"kurnool district",115036343,204805909023
+407,andhra-pradesh,2024,1,"chittoor district",179903083,289620567340
+408,andhra-pradesh,2024,1,"guntur district",173636233,297371276946
+409,andhra-pradesh,2024,1,"krishna district",186352072,316993492628
+410,andhra-pradesh,2024,2,"east godavari district",197431466,319787453310
+411,andhra-pradesh,2024,2,"srikakulam district",70555405,119668161926
+412,andhra-pradesh,2024,2,"spsr nellore district",121146667,208460354672
+413,andhra-pradesh,2024,2,"vizianagaram district",64618416,106767080307
+414,andhra-pradesh,2024,2,"visakhapatnam district",260339876,378402015204
+415,andhra-pradesh,2024,2,"prakasam district",112437837,202731369689
+416,andhra-pradesh,2024,2,"anantapur district",136536485,225723880453
+417,andhra-pradesh,2024,2,"ysr district",103280919,200094107316
+418,andhra-pradesh,2024,2,"west godavari district",143617131,249493284812
+419,andhra-pradesh,2024,2,"kurnool district",127978397,213990808953
+420,andhra-pradesh,2024,2,"chittoor district",194201427,307619765473
+421,andhra-pradesh,2024,2,"guntur district",191134818,314056718623
+422,andhra-pradesh,2024,2,"krishna district",206843456,335127419350
+423,andhra-pradesh,2024,3,"east godavari district",85529302,134055222841
+424,andhra-pradesh,2024,3,"srikakulam district",62184993,97813235035
+425,andhra-pradesh,2024,3,"visakhapatnam district",213106280,290036726818
+426,andhra-pradesh,2024,3,"sri potti sriramulu nellore district",106917876,175836307089
+427,andhra-pradesh,2024,3,"kurnool district",76743327,116585260974
+428,andhra-pradesh,2024,3,"guntur district",127566851,190039358188
+429,andhra-pradesh,2024,3,"krishna district",53171206,79983950321
+430,andhra-pradesh,2024,3,"annamayya district",62848984,112657755790
+431,andhra-pradesh,2024,3,"ananthapuramu district",91820629,142914453423
+432,andhra-pradesh,2024,3,"vizianagaram district",62554001,95045716716
+433,andhra-pradesh,2024,3,"tirupati district",149968579,211447552571
+434,andhra-pradesh,2024,3,"alluri sitharama raju district",13047314,17711034657
+435,andhra-pradesh,2024,3,"nandyal district",58218141,94767854409
+436,andhra-pradesh,2024,3,"sri sathyasai district",54635514,85171801342
+437,andhra-pradesh,2024,3,"palnadu district",63733956,103932427004
+438,andhra-pradesh,2024,3,"prakasam district",85310768,143771093092
+439,andhra-pradesh,2024,3,"parvathipuram manyam district",16244017,26358426448
+440,andhra-pradesh,2024,3,"dr br ambedkar konaseema district",51948055,82595773585
+441,andhra-pradesh,2024,3,"bapatla district",46247509,74276374977
+442,andhra-pradesh,2024,3,"ntr district",152140699,224873105608
+443,andhra-pradesh,2024,3,"kakinada district",95570509,138371672925
+444,andhra-pradesh,2024,3,"anakapalli district",62265420,94198852698
+445,andhra-pradesh,2024,3,"ysr district",81092780,147753373999
+446,andhra-pradesh,2024,3,"west godavari district",71827279,115940451584
+447,andhra-pradesh,2024,3,"eluru district",81354859,126434474521
+448,andhra-pradesh,2024,3,"chittoor district",65322514,104073350874
+449,andhra-pradesh,2024,4,"east godavari district",96791979,147921011637
+450,andhra-pradesh,2024,4,"srikakulam district",68020232,104655474413
+451,andhra-pradesh,2024,4,"visakhapatnam district",229565019,302371361659
+452,andhra-pradesh,2024,4,"sri potti sriramulu nellore district",114316424,182545036925
+453,andhra-pradesh,2024,4,"kurnool district",84094067,125400553798
+454,andhra-pradesh,2024,4,"guntur district",139286726,201755300053
+455,andhra-pradesh,2024,4,"krishna district",59157277,87816112495
+456,andhra-pradesh,2024,4,"annamayya district",67565763,115547782003
+457,andhra-pradesh,2024,4,"ananthapuramu district",100670947,151922187881
+458,andhra-pradesh,2024,4,"vizianagaram district",68941987,103240952250
+459,andhra-pradesh,2024,4,"tirupati district",159672169,217180680249
+460,andhra-pradesh,2024,4,"alluri sitharama raju district",16328675,22054853299
+461,andhra-pradesh,2024,4,"nandyal district",65846099,107236824037
+462,andhra-pradesh,2024,4,"sri sathyasai district",59833855,91086871790
+463,andhra-pradesh,2024,4,"palnadu district",68725562,111366598419
+464,andhra-pradesh,2024,4,"prakasam district",90937455,149042387778
+465,andhra-pradesh,2024,4,"parvathipuram manyam district",17808047,29400489754
+466,andhra-pradesh,2024,4,"dr br ambedkar konaseema district",59479299,92702253484
+467,andhra-pradesh,2024,4,"bapatla district",50922968,79581355819
+468,andhra-pradesh,2024,4,"ntr district",171465537,247316521377
+469,andhra-pradesh,2024,4,"kakinada district",106856932,150518386058
+470,andhra-pradesh,2024,4,"anakapalli district",68465689,101420705724
+471,andhra-pradesh,2024,4,"ysr district",87733584,154462449389
+472,andhra-pradesh,2024,4,"west godavari district",80979438,126425425232
+473,andhra-pradesh,2024,4,"eluru district",92216645,140703076456
+474,andhra-pradesh,2024,4,"chittoor district",70763169,108340916987
+475,arunachal-pradesh,2018,1,"lower dibang valley district",1356,1076236.814073793
+476,arunachal-pradesh,2018,1,"lower subansiri district",1477,3650727.893614269
+477,arunachal-pradesh,2018,1,"longding district",2321,4361531.578447229
+478,arunachal-pradesh,2018,1,"west siang district",1887,4796675.565399804
+479,arunachal-pradesh,2018,1,"kamle district",14,7971.330494807651
+480,arunachal-pradesh,2018,1,"upper siang district",126,186610.66988095018
+481,arunachal-pradesh,2018,1,"tirap district",945,1064265.0002443574
+482,arunachal-pradesh,2018,1,"papum pare district",14224,32555848.462331478
+483,arunachal-pradesh,2018,1,"kurung kumey district",84,99416.58027150274
+484,arunachal-pradesh,2018,1,"siang district",252,339471.80434222345
+485,arunachal-pradesh,2018,1,"lower siang district",1292,2337960.7148240386
+486,arunachal-pradesh,2018,1,"kra daadi district",207,495375.1454853307
+487,arunachal-pradesh,2018,1,"changlang district",3195,5380749.415278763
+488,arunachal-pradesh,2018,1,"pakke kessang district",9,9131.404205737199
+489,arunachal-pradesh,2018,1,"dibang valley district",2,169.88856537681642
+490,arunachal-pradesh,2018,1,"west kameng district",5787,9540632.547015157
+491,arunachal-pradesh,2018,1,"east siang district",3286,5533620.186295529
+492,arunachal-pradesh,2018,1,"upper subansiri district",735,1358367.5018580484
+493,arunachal-pradesh,2018,1,"east kameng district",529,473824.76595106337
+494,arunachal-pradesh,2018,1,"lohit district",3747,11496949.54576835
+495,arunachal-pradesh,2018,1,"lepa rada district",288,403149.46702687367
+496,arunachal-pradesh,2018,1,"tawang district",2334,5055665.022950603
+497,arunachal-pradesh,2018,1,"namsai district",1400,2162984.705083958
+498,arunachal-pradesh,2018,2,"lower dibang valley district",1827,2561237.506207262
+499,arunachal-pradesh,2018,2,"lower subansiri district",1666,4113742.04406352
+500,arunachal-pradesh,2018,2,"longding district",4634,10271170.165521314
+501,arunachal-pradesh,2018,2,"west siang district",2579,7610989.567485569
+502,arunachal-pradesh,2018,2,"kamle district",12,23654.058373191845
+503,arunachal-pradesh,2018,2,"upper siang district",240,494895.09277159756
+504,arunachal-pradesh,2018,2,"tirap district",1903,3126393.7649546335
+505,arunachal-pradesh,2018,2,"papum pare district",25363,66520931.20355793
+506,arunachal-pradesh,2018,2,"kurung kumey district",83,123737.2220411206
+507,arunachal-pradesh,2018,2,"anjaw district",7,7871.020814692305
+508,arunachal-pradesh,2018,2,"siang district",336,740232.6309634304
+509,arunachal-pradesh,2018,2,"lower siang district",2292,2179451.657976534
+510,arunachal-pradesh,2018,2,"kra daadi district",247,987135.9959717204
+511,arunachal-pradesh,2018,2,"changlang district",6066,13294258.50337311
+512,arunachal-pradesh,2018,2,"pakke kessang district",48,58359.57138935899
+513,arunachal-pradesh,2018,2,"dibang valley district",68,65769.2036735354
+514,arunachal-pradesh,2018,2,"west kameng district",10466,25521321.34140157
+515,arunachal-pradesh,2018,2,"east siang district",6363,15285584.202916935
+516,arunachal-pradesh,2018,2,"upper subansiri district",1285,2911910.3689207276
+517,arunachal-pradesh,2018,2,"east kameng district",522,1825297.4617279815
+518,arunachal-pradesh,2018,2,"lohit district",6962,20520618.881890118
+519,arunachal-pradesh,2018,2,"lepa rada district",511,731444.7370576829
+520,arunachal-pradesh,2018,2,"tawang district",5447,13722374.811357912
+521,arunachal-pradesh,2018,2,"namsai district",3230,6271811.327635023
+522,arunachal-pradesh,2018,3,"lower dibang valley district",2824,6074558.207066888
+523,arunachal-pradesh,2018,3,"lower subansiri district",2346,5154231.737357968
+524,arunachal-pradesh,2018,3,"longding district",5288,18327334.050755527
+525,arunachal-pradesh,2018,3,"west siang district",3337,12966152.792519316
+526,arunachal-pradesh,2018,3,"kamle district",93,30504.94301319112
+527,arunachal-pradesh,2018,3,"upper siang district",250,743956.1055720671
+528,arunachal-pradesh,2018,3,"tirap district",3322,7479257.007852319
+529,arunachal-pradesh,2018,3,"papum pare district",43282,101080479.2917223
+530,arunachal-pradesh,2018,3,"kurung kumey district",255,303027.4066451341
+531,arunachal-pradesh,2018,3,"anjaw district",13,95403.67678261214
+532,arunachal-pradesh,2018,3,"siang district",615,2141734.499956036
+533,arunachal-pradesh,2018,3,"lower siang district",2625,3045590.882295873
+534,arunachal-pradesh,2018,3,"kra daadi district",436,1606758.4080739785
+535,arunachal-pradesh,2018,3,"changlang district",10162,20494174.949715402
+536,arunachal-pradesh,2018,3,"pakke kessang district",165,305164.81707575504
+537,arunachal-pradesh,2018,3,"dibang valley district",29,196466.66696677107
+538,arunachal-pradesh,2018,3,"west kameng district",17026,48528147.45054105
+539,arunachal-pradesh,2018,3,"east siang district",10539,24885270.773230057
+540,arunachal-pradesh,2018,3,"upper subansiri district",1601,4223297.613673143
+541,arunachal-pradesh,2018,3,"east kameng district",1029,3132863.590645522
+542,arunachal-pradesh,2018,3,"lohit district",11595,32702331.664437763
+543,arunachal-pradesh,2018,3,"lepa rada district",523,1777602.4370017413
+544,arunachal-pradesh,2018,3,"tawang district",8715,25733824.994109266
+545,arunachal-pradesh,2018,3,"namsai district",5076,10698272.774381302
+546,arunachal-pradesh,2018,4,"lower dibang valley district",4227,10951332.393937869
+547,arunachal-pradesh,2018,4,"lower subansiri district",3735,8884930.591487257
+548,arunachal-pradesh,2018,4,"longding district",6581,22545311.85089966
+549,arunachal-pradesh,2018,4,"west siang district",3813,14013986.244825875
+550,arunachal-pradesh,2018,4,"kamle district",247,361497.05682825705
+551,arunachal-pradesh,2018,4,"upper siang district",1041,2157332.9473089008
+552,arunachal-pradesh,2018,4,"tirap district",5725,10811742.670586085
+553,arunachal-pradesh,2018,4,"papum pare district",55224,154875448.20778143
+554,arunachal-pradesh,2018,4,"kurung kumey district",444,759686.7195777439
+555,arunachal-pradesh,2018,4,"anjaw district",273,495578.19942643447
+556,arunachal-pradesh,2018,4,"siang district",822,2176630.237443937
+557,arunachal-pradesh,2018,4,"lower siang district",2883,4533291.201383284
+558,arunachal-pradesh,2018,4,"kra daadi district",750,3254327.442489025
+559,arunachal-pradesh,2018,4,"changlang district",13950,32343047.413952358
+560,arunachal-pradesh,2018,4,"pakke kessang district",297,462143.5189972004
+561,arunachal-pradesh,2018,4,"dibang valley district",40,97205.28808666342
+562,arunachal-pradesh,2018,4,"west kameng district",25439,89194886.84322134
+563,arunachal-pradesh,2018,4,"shi yomi district",61,42483.80153055695
+564,arunachal-pradesh,2018,4,"east siang district",12893,34272134.344916776
+565,arunachal-pradesh,2018,4,"upper subansiri district",2686,8771042.079749444
+566,arunachal-pradesh,2018,4,"east kameng district",1750,5936855.710462087
+567,arunachal-pradesh,2018,4,"lohit district",14268,40510521.949797615
+568,arunachal-pradesh,2018,4,"lepa rada district",932,3023578.1893019043
+569,arunachal-pradesh,2018,4,"tawang district",11104,35921510.89403269
+570,arunachal-pradesh,2018,4,"namsai district",7244,17643523.29373534
+571,arunachal-pradesh,2019,1,"lower dibang valley district",6314,13738776.18143886
+572,arunachal-pradesh,2019,1,"lower subansiri district",4994,12615032.122891838
+573,arunachal-pradesh,2019,1,"longding district",7287,25349462.055245366
+574,arunachal-pradesh,2019,1,"west siang district",5921,19426751.301233895
+575,arunachal-pradesh,2019,1,"kamle district",391,725807.1059240355
+576,arunachal-pradesh,2019,1,"upper siang district",1154,2756678.3077581595
+577,arunachal-pradesh,2019,1,"tirap district",6877,14075747.836402504
+578,arunachal-pradesh,2019,1,"papum pare district",70941,188556716.3567257
+579,arunachal-pradesh,2019,1,"kurung kumey district",740,2076644.1215012982
+580,arunachal-pradesh,2019,1,"anjaw district",2116,4643030.795590812
+581,arunachal-pradesh,2019,1,"siang district",1282,2552682.037255951
+582,arunachal-pradesh,2019,1,"lower siang district",3565,6923301.927893572
+583,arunachal-pradesh,2019,1,"kra daadi district",1070,3797175.4842446605
+584,arunachal-pradesh,2019,1,"changlang district",17589,40239141.669717625
+585,arunachal-pradesh,2019,1,"pakke kessang district",545,1682922.8373646357
+586,arunachal-pradesh,2019,1,"dibang valley district",102,301591.38639926765
+587,arunachal-pradesh,2019,1,"west kameng district",34289,101333633.67604163
+588,arunachal-pradesh,2019,1,"shi yomi district",19,212989.63045272
+589,arunachal-pradesh,2019,1,"east siang district",15621,39284373.05409969
+590,arunachal-pradesh,2019,1,"upper subansiri district",3880,14105451.853243299
+591,arunachal-pradesh,2019,1,"east kameng district",2688,9107597.731491327
+592,arunachal-pradesh,2019,1,"lohit district",15896,42834776.778045304
+593,arunachal-pradesh,2019,1,"lepa rada district",1523,4054526.308789035
+594,arunachal-pradesh,2019,1,"tawang district",13102,39489779.13784294
+595,arunachal-pradesh,2019,1,"namsai district",8600,20065516.616355177
+596,arunachal-pradesh,2019,2,"lower dibang valley district",5819,13737167.7479776
+597,arunachal-pradesh,2019,2,"lower subansiri district",5579,14746949.652010633
+598,arunachal-pradesh,2019,2,"longding district",6744,23464027.892812617
+599,arunachal-pradesh,2019,2,"west siang district",8041,24549832.977181494
+600,arunachal-pradesh,2019,2,"kamle district",414,1136776.6962042823
+601,arunachal-pradesh,2019,2,"upper siang district",1079,3993676.3296563537
+602,arunachal-pradesh,2019,2,"tirap district",6868,18633793.43372325
+603,arunachal-pradesh,2019,2,"papum pare district",86433,246640891.34861866
+604,arunachal-pradesh,2019,2,"kurung kumey district",1427,4036511.9338615797
+605,arunachal-pradesh,2019,2,"anjaw district",2473,5220589.920801567
+606,arunachal-pradesh,2019,2,"siang district",1654,5373179.351887872
+607,arunachal-pradesh,2019,2,"lower siang district",3791,7075961.239041175
+608,arunachal-pradesh,2019,2,"kra daadi district",1447,4315353.218765283
+609,arunachal-pradesh,2019,2,"changlang district",18631,48891048.26477764
+610,arunachal-pradesh,2019,2,"pakke kessang district",687,1750138.0587616218
+611,arunachal-pradesh,2019,2,"dibang valley district",98,214966.6162180208
+612,arunachal-pradesh,2019,2,"west kameng district",37430,122521180.75595039
+613,arunachal-pradesh,2019,2,"shi yomi district",13,65209.39364354455
+614,arunachal-pradesh,2019,2,"east siang district",16494,46549881.23941852
+615,arunachal-pradesh,2019,2,"upper subansiri district",4827,18395806.566284098
+616,arunachal-pradesh,2019,2,"east kameng district",2309,8996397.735290494
+617,arunachal-pradesh,2019,2,"lohit district",18693,48893746.831022196
+618,arunachal-pradesh,2019,2,"lepa rada district",2108,5045595.906781289
+619,arunachal-pradesh,2019,2,"tawang district",15960,55915834.5871187
+620,arunachal-pradesh,2019,2,"namsai district",9637,22491356.65721929
+621,arunachal-pradesh,2019,3,"lower dibang valley district",8405,15177864.63915902
+622,arunachal-pradesh,2019,3,"lower subansiri district",8828,21059967.49943525
+623,arunachal-pradesh,2019,3,"longding district",10269,26620415.01923828
+624,arunachal-pradesh,2019,3,"west siang district",11889,30014806.816802975
+625,arunachal-pradesh,2019,3,"kamle district",677,968784.5134103607
+626,arunachal-pradesh,2019,3,"upper siang district",1419,3927440.4417752204
+627,arunachal-pradesh,2019,3,"tirap district",11249,21737827.19336869
+628,arunachal-pradesh,2019,3,"papum pare district",117940,301518075.7016427
+629,arunachal-pradesh,2019,3,"kurung kumey district",1579,3674797.099413435
+630,arunachal-pradesh,2019,3,"anjaw district",4230,9665384.074972186
+631,arunachal-pradesh,2019,3,"siang district",2640,6888800.898705382
+632,arunachal-pradesh,2019,3,"lower siang district",5348,9507511.569068512
+633,arunachal-pradesh,2019,3,"kra daadi district",2187,5520848.186492377
+634,arunachal-pradesh,2019,3,"changlang district",29218,58354823.443366826
+635,arunachal-pradesh,2019,3,"pakke kessang district",977,2145842.2925678995
+636,arunachal-pradesh,2019,3,"dibang valley district",202,675909.9962923382
+637,arunachal-pradesh,2019,3,"west kameng district",53939,147186019.8759076
+638,arunachal-pradesh,2019,3,"shi yomi district",27,30367.754712275342
+639,arunachal-pradesh,2019,3,"east siang district",22611,58040119.9573143
+640,arunachal-pradesh,2019,3,"upper subansiri district",7803,22099628.49449406
+641,arunachal-pradesh,2019,3,"east kameng district",3814,10631335.871797245
+642,arunachal-pradesh,2019,3,"lohit district",24505,54539458.21434432
+643,arunachal-pradesh,2019,3,"lepa rada district",2928,4930337.942058578
+644,arunachal-pradesh,2019,3,"tawang district",24097,72221026.28393415
+645,arunachal-pradesh,2019,3,"namsai district",13453,25507641.015596062
+646,arunachal-pradesh,2019,4,"lower dibang valley district",10376,21103089.24170351
+647,arunachal-pradesh,2019,4,"lower subansiri district",11806,29634357.486805215
+648,arunachal-pradesh,2019,4,"longding district",11018,29245021.393976457
+649,arunachal-pradesh,2019,4,"west siang district",14581,39460255.46641725
+650,arunachal-pradesh,2019,4,"kamle district",999,1620922.3277442688
+651,arunachal-pradesh,2019,4,"upper siang district",4165,12739585.638734035
+652,arunachal-pradesh,2019,4,"tirap district",16459,38467790.7269052
+653,arunachal-pradesh,2019,4,"papum pare district",143272,378838002.3434037
+654,arunachal-pradesh,2019,4,"kurung kumey district",1343,4526789.748638094
+655,arunachal-pradesh,2019,4,"anjaw district",5417,11887950.534618177
+656,arunachal-pradesh,2019,4,"siang district",4756,8833695.424992222
+657,arunachal-pradesh,2019,4,"lower siang district",6628,11985865.259161524
+658,arunachal-pradesh,2019,4,"kra daadi district",2830,7804936.327522229
+659,arunachal-pradesh,2019,4,"changlang district",33963,71874990.9639822
+660,arunachal-pradesh,2019,4,"pakke kessang district",1194,2287739.0120923957
+661,arunachal-pradesh,2019,4,"dibang valley district",267,1240493.0270471391
+662,arunachal-pradesh,2019,4,"west kameng district",66740,198205637.50055438
+663,arunachal-pradesh,2019,4,"shi yomi district",232,170772.72677991798
+664,arunachal-pradesh,2019,4,"east siang district",26605,72075285.44344108
+665,arunachal-pradesh,2019,4,"upper subansiri district",9285,28319761.873849634
+666,arunachal-pradesh,2019,4,"east kameng district",5646,19408662.74847077
+667,arunachal-pradesh,2019,4,"lohit district",29281,67502324.59236205
+668,arunachal-pradesh,2019,4,"lepa rada district",4245,8888753.875914622
+669,arunachal-pradesh,2019,4,"tawang district",30077,91949243.6071119
+670,arunachal-pradesh,2019,4,"namsai district",18290,32501252.235055383
+671,arunachal-pradesh,2020,1,"lower dibang valley district",14400,29552510.9414332
+672,arunachal-pradesh,2020,1,"lower subansiri district",15770,34273250.7179902
+673,arunachal-pradesh,2020,1,"longding district",13240,35267439.983279385
+674,arunachal-pradesh,2020,1,"west siang district",19728,47929440.73153875
+675,arunachal-pradesh,2020,1,"kamle district",1434,3418975.8263023924
+676,arunachal-pradesh,2020,1,"upper siang district",7055,17820679.64619372
+677,arunachal-pradesh,2020,1,"tirap district",18369,40877851.79372531
+678,arunachal-pradesh,2020,1,"papum pare district",180373,457430754.1595316
+679,arunachal-pradesh,2020,1,"kurung kumey district",2294,5942677.061635139
+680,arunachal-pradesh,2020,1,"anjaw district",5025,12808735.858744403
+681,arunachal-pradesh,2020,1,"siang district",5136,11962344.13711079
+682,arunachal-pradesh,2020,1,"lower siang district",8047,15520255.403975137
+683,arunachal-pradesh,2020,1,"kra daadi district",3407,10045462.795181293
+684,arunachal-pradesh,2020,1,"changlang district",43858,93461363.58699805
+685,arunachal-pradesh,2020,1,"pakke kessang district",2044,3425821.315796173
+686,arunachal-pradesh,2020,1,"dibang valley district",397,878784.5955219769
+687,arunachal-pradesh,2020,1,"west kameng district",75363,198712422.2374845
+688,arunachal-pradesh,2020,1,"shi yomi district",117,566189.9936512378
+689,arunachal-pradesh,2020,1,"east siang district",33743,82011539.42531273
+690,arunachal-pradesh,2020,1,"upper subansiri district",12313,33686711.81345673
+691,arunachal-pradesh,2020,1,"east kameng district",7379,20456070.89377439
+692,arunachal-pradesh,2020,1,"lohit district",36985,83701268.27182505
+693,arunachal-pradesh,2020,1,"lepa rada district",5721,11137993.767266009
+694,arunachal-pradesh,2020,1,"tawang district",31865,84425193.41571434
+695,arunachal-pradesh,2020,1,"namsai district",23112,46444942.9567038
+696,arunachal-pradesh,2020,2,"lower dibang valley district",26234,42360072.526896134
+697,arunachal-pradesh,2020,2,"lower subansiri district",25703,46133123.517396785
+698,arunachal-pradesh,2020,2,"longding district",20664,54678022.50234371
+699,arunachal-pradesh,2020,2,"west siang district",32777,72790231.05472675
+700,arunachal-pradesh,2020,2,"kamle district",2397,4126243.0778709752
+701,arunachal-pradesh,2020,2,"upper siang district",10899,28048492.10512026
+702,arunachal-pradesh,2020,2,"tirap district",28830,63497030.840810165
+703,arunachal-pradesh,2020,2,"papum pare district",221728,535085907.34048563
+704,arunachal-pradesh,2020,2,"kurung kumey district",3847,11359743.457053192
+705,arunachal-pradesh,2020,2,"anjaw district",7617,18795023.531477228
+706,arunachal-pradesh,2020,2,"siang district",9827,18585670.46796793
+707,arunachal-pradesh,2020,2,"lower siang district",13321,23571085.32253689
+708,arunachal-pradesh,2020,2,"kra daadi district",5264,15730996.227462547
+709,arunachal-pradesh,2020,2,"changlang district",69279,128572447.99797386
+710,arunachal-pradesh,2020,2,"pakke kessang district",3558,4635272.064395212
+711,arunachal-pradesh,2020,2,"dibang valley district",966,2559724.8369189673
+712,arunachal-pradesh,2020,2,"west kameng district",95421,251395972.22505817
+713,arunachal-pradesh,2020,2,"shi yomi district",302,1222863.4358782358
+714,arunachal-pradesh,2020,2,"east siang district",55680,112693868.8099896
+715,arunachal-pradesh,2020,2,"upper subansiri district",18056,43140688.970285244
+716,arunachal-pradesh,2020,2,"east kameng district",11791,40506284.272980645
+717,arunachal-pradesh,2020,2,"lohit district",56541,114730675.47714493
+718,arunachal-pradesh,2020,2,"lepa rada district",8601,16064862.366431037
+719,arunachal-pradesh,2020,2,"tawang district",44499,121561732.24171817
+720,arunachal-pradesh,2020,2,"namsai district",34972,54870798.31404532
+721,arunachal-pradesh,2020,3,"lower dibang valley district",27655,63469161.328603886
+722,arunachal-pradesh,2020,3,"lower subansiri district",26596,59707234.22223007
+723,arunachal-pradesh,2020,3,"longding district",21445,63273209.984560445
+724,arunachal-pradesh,2020,3,"west siang district",34295,92449732.96070345
+725,arunachal-pradesh,2020,3,"kamle district",2618,5300885.9328534985
+726,arunachal-pradesh,2020,3,"upper siang district",12707,40210852.98915006
+727,arunachal-pradesh,2020,3,"tirap district",30046,81539831.5295825
+728,arunachal-pradesh,2020,3,"papum pare district",298350,859373863.7202578
+729,arunachal-pradesh,2020,3,"kurung kumey district",4391,13864822.733226534
+730,arunachal-pradesh,2020,3,"anjaw district",9751,31524690.460289024
+731,arunachal-pradesh,2020,3,"siang district",10489,21236201.531454768
+732,arunachal-pradesh,2020,3,"lower siang district",12456,28754627.349573277
+733,arunachal-pradesh,2020,3,"kra daadi district",5676,16181045.612635879
+734,arunachal-pradesh,2020,3,"changlang district",73842,159158438.92541084
+735,arunachal-pradesh,2020,3,"pakke kessang district",3469,6301715.335375749
+736,arunachal-pradesh,2020,3,"dibang valley district",899,3061207.2925078664
+737,arunachal-pradesh,2020,3,"west kameng district",111029,332812237.8096209
+738,arunachal-pradesh,2020,3,"shi yomi district",521,3410288.130911609
+739,arunachal-pradesh,2020,3,"east siang district",69710,176323789.94437826
+740,arunachal-pradesh,2020,3,"upper subansiri district",24387,70811197.57521853
+741,arunachal-pradesh,2020,3,"east kameng district",13421,43881134.37096395
+742,arunachal-pradesh,2020,3,"lohit district",65889,156523653.1864311
+743,arunachal-pradesh,2020,3,"lepa rada district",10150,22146313.373236045
+744,arunachal-pradesh,2020,3,"tawang district",56016,182137862.72423625
+745,arunachal-pradesh,2020,3,"namsai district",37019,76484566.53480485
+746,arunachal-pradesh,2020,4,"lower dibang valley district",33455,81929299.56817816
+747,arunachal-pradesh,2020,4,"lower subansiri district",31411,97681186.89595497
+748,arunachal-pradesh,2020,4,"longding district",26089,74890543.91561158
+749,arunachal-pradesh,2020,4,"west siang district",45207,125118193.0493962
+750,arunachal-pradesh,2020,4,"kamle district",3611,10000596.409396999
+751,arunachal-pradesh,2020,4,"upper siang district",19943,78146755.88828371
+752,arunachal-pradesh,2020,4,"tirap district",36124,104709589.6601958
+753,arunachal-pradesh,2020,4,"papum pare district",390528,1205917753.7046227
+754,arunachal-pradesh,2020,4,"kurung kumey district",4581,17134470.4444281
+755,arunachal-pradesh,2020,4,"anjaw district",17228,49318880.51759694
+756,arunachal-pradesh,2020,4,"siang district",12962,32619173.238261122
+757,arunachal-pradesh,2020,4,"lower siang district",14782,33891568.64514145
+758,arunachal-pradesh,2020,4,"kra daadi district",7619,30458774.811469436
+759,arunachal-pradesh,2020,4,"changlang district",84852,204367875.07299304
+760,arunachal-pradesh,2020,4,"pakke kessang district",3064,7503555.503947843
+761,arunachal-pradesh,2020,4,"dibang valley district",1705,6749773.196253154
+762,arunachal-pradesh,2020,4,"west kameng district",129575,390436113.7366377
+763,arunachal-pradesh,2020,4,"shi yomi district",1103,6627025.636333689
+764,arunachal-pradesh,2020,4,"east siang district",88632,250515095.18896666
+765,arunachal-pradesh,2020,4,"upper subansiri district",31426,109405900.7987589
+766,arunachal-pradesh,2020,4,"east kameng district",16340,64104581.33887266
+767,arunachal-pradesh,2020,4,"lohit district",80530,196997836.79933694
+768,arunachal-pradesh,2020,4,"lepa rada district",14338,39340491.723573
+769,arunachal-pradesh,2020,4,"tawang district",67262,240482254.58453605
+770,arunachal-pradesh,2020,4,"namsai district",46762,111916731.51687588
+771,arunachal-pradesh,2021,1,"lower dibang valley district",32427,90709108.52350861
+772,arunachal-pradesh,2021,1,"lower subansiri district",29916,106591162.96103427
+773,arunachal-pradesh,2021,1,"longding district",23962,75573420.97022958
+774,arunachal-pradesh,2021,1,"west siang district",42575,138700637.29161483
+775,arunachal-pradesh,2021,1,"kamle district",3092,11023767.702559106
+776,arunachal-pradesh,2021,1,"upper siang district",21312,73026286.55263102
+777,arunachal-pradesh,2021,1,"tirap district",32043,110593517.1462319
+778,arunachal-pradesh,2021,1,"papum pare district",419891,1388723426.7156572
+779,arunachal-pradesh,2021,1,"kurung kumey district",4962,22483754.80073421
+780,arunachal-pradesh,2021,1,"anjaw district",12823,38844865.55268997
+781,arunachal-pradesh,2021,1,"siang district",13679,42644184.41156319
+782,arunachal-pradesh,2021,1,"lower siang district",13231,37929392.80129131
+783,arunachal-pradesh,2021,1,"kra daadi district",6393,24326518.988243874
+784,arunachal-pradesh,2021,1,"changlang district",78849,220167765.51868472
+785,arunachal-pradesh,2021,1,"pakke kessang district",3563,8146941.7919960935
+786,arunachal-pradesh,2021,1,"dibang valley district",1930,7949867.973505622
+787,arunachal-pradesh,2021,1,"west kameng district",120906,384735272.8434415
+788,arunachal-pradesh,2021,1,"shi yomi district",1251,6905518.17317189
+789,arunachal-pradesh,2021,1,"east siang district",82357,253988360.79783517
+790,arunachal-pradesh,2021,1,"upper subansiri district",28053,116973014.48753676
+791,arunachal-pradesh,2021,1,"east kameng district",16281,77915774.21328105
+792,arunachal-pradesh,2021,1,"lohit district",72380,198534806.934188
+793,arunachal-pradesh,2021,1,"lepa rada district",15690,52794992.77695303
+794,arunachal-pradesh,2021,1,"tawang district",54137,207859088.41115895
+795,arunachal-pradesh,2021,1,"namsai district",45753,116637630.67690115
+796,arunachal-pradesh,2021,2,"lower dibang valley district",42091,105552358.12192997
+797,arunachal-pradesh,2021,2,"lower subansiri district",40081,120717472.89200453
+798,arunachal-pradesh,2021,2,"longding district",31640,96566640.5347223
+799,arunachal-pradesh,2021,2,"west siang district",59341,180700138.79997098
+800,arunachal-pradesh,2021,2,"kamle district",5476,17345427.03524171
+801,arunachal-pradesh,2021,2,"upper siang district",25971,89455180.0696969
+802,arunachal-pradesh,2021,2,"tirap district",46320,144548683.3225929
+803,arunachal-pradesh,2021,2,"papum pare district",552953,1501062555.477559
+804,arunachal-pradesh,2021,2,"kurung kumey district",6623,27396796.623303153
+805,arunachal-pradesh,2021,2,"anjaw district",15311,43475744.23676274
+806,arunachal-pradesh,2021,2,"siang district",17032,52687221.42695154
+807,arunachal-pradesh,2021,2,"lower siang district",17401,45499278.56988002
+808,arunachal-pradesh,2021,2,"kra daadi district",8758,35998227.60012327
+809,arunachal-pradesh,2021,2,"changlang district",105461,264031910.34894213
+810,arunachal-pradesh,2021,2,"pakke kessang district",4424,13097426.072373278
+811,arunachal-pradesh,2021,2,"dibang valley district",1995,9465919.622553768
+812,arunachal-pradesh,2021,2,"west kameng district",164866,482626617.86575466
+813,arunachal-pradesh,2021,2,"shi yomi district",2135,12166777.18507706
+814,arunachal-pradesh,2021,2,"east siang district",106787,286839106.4541313
+815,arunachal-pradesh,2021,2,"upper subansiri district",35856,131912938.7628825
+816,arunachal-pradesh,2021,2,"east kameng district",22015,95352007.56231916
+817,arunachal-pradesh,2021,2,"lohit district",99686,230495504.2475701
+818,arunachal-pradesh,2021,2,"lepa rada district",21273,71336743.85611859
+819,arunachal-pradesh,2021,2,"tawang district",70061,251025037.95363936
+820,arunachal-pradesh,2021,2,"namsai district",64781,147069902.3522784
+821,arunachal-pradesh,2021,3,"lower dibang valley district",50270,133788746.95473914
+822,arunachal-pradesh,2021,3,"lower subansiri district",46105,142674452.19705147
+823,arunachal-pradesh,2021,3,"longding district",32638,100698520.96035638
+824,arunachal-pradesh,2021,3,"west siang district",65763,217065611.3332364
+825,arunachal-pradesh,2021,3,"kamle district",6064,19140719.47908092
+826,arunachal-pradesh,2021,3,"upper siang district",27960,114285857.14806488
+827,arunachal-pradesh,2021,3,"tirap district",47118,143620525.85725695
+828,arunachal-pradesh,2021,3,"papum pare district",710098,1995999756.3372893
+829,arunachal-pradesh,2021,3,"kurung kumey district",7417,30935383.383134913
+830,arunachal-pradesh,2021,3,"anjaw district",22621,69876730.14897071
+831,arunachal-pradesh,2021,3,"siang district",17241,58453201.45572044
+832,arunachal-pradesh,2021,3,"lower siang district",19324,46101622.757140934
+833,arunachal-pradesh,2021,3,"kra daadi district",8974,32167939.60284054
+834,arunachal-pradesh,2021,3,"changlang district",120126,319705502.42197955
+835,arunachal-pradesh,2021,3,"pakke kessang district",5061,12416386.841288097
+836,arunachal-pradesh,2021,3,"dibang valley district",2354,13284361.635290643
+837,arunachal-pradesh,2021,3,"west kameng district",209165,658232385.7409549
+838,arunachal-pradesh,2021,3,"shi yomi district",2559,17495021.72242897
+839,arunachal-pradesh,2021,3,"east siang district",128957,368061706.2429154
+840,arunachal-pradesh,2021,3,"upper subansiri district",46434,191353412.42695975
+841,arunachal-pradesh,2021,3,"east kameng district",23739,102442240.26594694
+842,arunachal-pradesh,2021,3,"lohit district",117879,275160751.4034922
+843,arunachal-pradesh,2021,3,"lepa rada district",20756,72378628.44705966
+844,arunachal-pradesh,2021,3,"tawang district",89052,365404078.3528414
+845,arunachal-pradesh,2021,3,"namsai district",79292,177380632.18278244
+846,arunachal-pradesh,2021,4,"lower dibang valley district",65302,174980099.83925235
+847,arunachal-pradesh,2021,4,"lower subansiri district",60146,199366119.13556093
+848,arunachal-pradesh,2021,4,"longding district",37096,125754642.94209707
+849,arunachal-pradesh,2021,4,"west siang district",79050,267978346.9418527
+850,arunachal-pradesh,2021,4,"kamle district",8517,31862943.48592616
+851,arunachal-pradesh,2021,4,"upper siang district",41167,155266317.84142125
+852,arunachal-pradesh,2021,4,"tirap district",52675,172835892.68512428
+853,arunachal-pradesh,2021,4,"papum pare district",919925,2435796597.1781564
+854,arunachal-pradesh,2021,4,"kurung kumey district",8467,36028643.15543166
+855,arunachal-pradesh,2021,4,"anjaw district",24083,77313027.11673045
+856,arunachal-pradesh,2021,4,"siang district",22785,72065716.16878249
+857,arunachal-pradesh,2021,4,"lower siang district",25424,69995156.90875632
+858,arunachal-pradesh,2021,4,"kra daadi district",10986,42553945.301929176
+859,arunachal-pradesh,2021,4,"changlang district",147432,403255246.4023236
+860,arunachal-pradesh,2021,4,"pakke kessang district",6343,15848508.20917535
+861,arunachal-pradesh,2021,4,"dibang valley district",2711,14284034.399703257
+862,arunachal-pradesh,2021,4,"west kameng district",247346,765859269.2953706
+863,arunachal-pradesh,2021,4,"shi yomi district",3066,19610548.431270048
+864,arunachal-pradesh,2021,4,"east siang district",169617,450185173.037876
+865,arunachal-pradesh,2021,4,"upper subansiri district",54298,226652835.3581027
+866,arunachal-pradesh,2021,4,"east kameng district",27988,122366463.65672666
+867,arunachal-pradesh,2021,4,"lohit district",142772,328942905.2553121
+868,arunachal-pradesh,2021,4,"lepa rada district",28633,101798549.88186258
+869,arunachal-pradesh,2021,4,"tawang district",99575,412396002.3197621
+870,arunachal-pradesh,2021,4,"namsai district",105194,220513367.66283622
+871,arunachal-pradesh,2022,1,"lower dibang valley district",83531,235243185.52128848
+872,arunachal-pradesh,2022,1,"lower subansiri district",73100,239825149.91154164
+873,arunachal-pradesh,2022,1,"longding district",43533,138915391.14290744
+874,arunachal-pradesh,2022,1,"west siang district",92331,315562272.5888671
+875,arunachal-pradesh,2022,1,"kamle district",11978,39224415.796201825
+876,arunachal-pradesh,2022,1,"upper siang district",43428,156487414.60212946
+877,arunachal-pradesh,2022,1,"tirap district",59514,181768733.7198426
+878,arunachal-pradesh,2022,1,"papum pare district",1163726,2909248438.629796
+879,arunachal-pradesh,2022,1,"kurung kumey district",10401,46127063.32319221
+880,arunachal-pradesh,2022,1,"anjaw district",21058,70149358.0827275
+881,arunachal-pradesh,2022,1,"siang district",23793,80549877.87323424
+882,arunachal-pradesh,2022,1,"lower siang district",29595,80036191.45641762
+883,arunachal-pradesh,2022,1,"kra daadi district",14110,54761962.54116271
+884,arunachal-pradesh,2022,1,"changlang district",171494,490549428.7793704
+885,arunachal-pradesh,2022,1,"pakke kessang district",8817,26463907.43466976
+886,arunachal-pradesh,2022,1,"dibang valley district",2927,15694666.656907387
+887,arunachal-pradesh,2022,1,"west kameng district",240672,705607894.004217
+888,arunachal-pradesh,2022,1,"shi yomi district",2903,19772208.730185587
+889,arunachal-pradesh,2022,1,"east siang district",201945,501600929.04419017
+890,arunachal-pradesh,2022,1,"upper subansiri district",61408,250527144.28565046
+891,arunachal-pradesh,2022,1,"east kameng district",36452,157804149.97029108
+892,arunachal-pradesh,2022,1,"lohit district",169954,393361044.4830233
+893,arunachal-pradesh,2022,1,"lepa rada district",33504,116144345.41984761
+894,arunachal-pradesh,2022,1,"tawang district",86721,346661566.51465106
+895,arunachal-pradesh,2022,1,"namsai district",117173,256004887.5750422
+896,arunachal-pradesh,2022,2,"lower dibang valley district",104498,271945446.39483917
+897,arunachal-pradesh,2022,2,"lower subansiri district",94109,287993729.7711809
+898,arunachal-pradesh,2022,2,"longding district",53158,160788732.81339836
+899,arunachal-pradesh,2022,2,"west siang district",121772,375530981.6496287
+900,arunachal-pradesh,2022,2,"kamle district",15014,44602505.00778252
+901,arunachal-pradesh,2022,2,"upper siang district",48672,156044689.03497896
+902,arunachal-pradesh,2022,2,"tirap district",77626,237900567.7289177
+903,arunachal-pradesh,2022,2,"papum pare district",1444757,3269917296.559577
+904,arunachal-pradesh,2022,2,"kurung kumey district",11548,48364588.79678346
+905,arunachal-pradesh,2022,2,"anjaw district",29854,100406271.77969864
+906,arunachal-pradesh,2022,2,"siang district",28364,83637271.88783586
+907,arunachal-pradesh,2022,2,"lower siang district",35467,92504503.65485632
+908,arunachal-pradesh,2022,2,"kra daadi district",15115,64226643.96066442
+909,arunachal-pradesh,2022,2,"changlang district",203732,513287861.1029648
+910,arunachal-pradesh,2022,2,"pakke kessang district",10309,27595370.58732931
+911,arunachal-pradesh,2022,2,"dibang valley district",3179,17089738.718757033
+912,arunachal-pradesh,2022,2,"west kameng district",327925,893486447.5566866
+913,arunachal-pradesh,2022,2,"shi yomi district",3929,28306519.496313594
+914,arunachal-pradesh,2022,2,"east siang district",261162,604825118.1911322
+915,arunachal-pradesh,2022,2,"upper subansiri district",69169,253134359.51780328
+916,arunachal-pradesh,2022,2,"east kameng district",45363,191450485.63458514
+917,arunachal-pradesh,2022,2,"lohit district",226199,502322813.6384014
+918,arunachal-pradesh,2022,2,"lepa rada district",40528,118031124.67116562
+919,arunachal-pradesh,2022,2,"tawang district",132824,494351396.8226247
+920,arunachal-pradesh,2022,2,"namsai district",152652,293920909.24794424
+921,arunachal-pradesh,2022,3,"lower dibang valley district",112848,273001216.6677967
+922,arunachal-pradesh,2022,3,"lower subansiri district",109261,285712248.1429684
+923,arunachal-pradesh,2022,3,"longding district",57360,154461013.00605297
+924,arunachal-pradesh,2022,3,"west siang district",136332,395192937.9954808
+925,arunachal-pradesh,2022,3,"kamle district",16300,40508790.17987645
+926,arunachal-pradesh,2022,3,"upper siang district",51285,160298876.32394755
+927,arunachal-pradesh,2022,3,"tirap district",79206,216482194.52850336
+928,arunachal-pradesh,2022,3,"papum pare district",1651143,3211809407.131925
+929,arunachal-pradesh,2022,3,"kurung kumey district",12677,54808629.689540036
+930,arunachal-pradesh,2022,3,"anjaw district",32452,104784905.2209255
+931,arunachal-pradesh,2022,3,"siang district",34204,91702284.02541924
+932,arunachal-pradesh,2022,3,"lower siang district",38480,85746020.38579762
+933,arunachal-pradesh,2022,3,"kra daadi district",15939,59014513.91034414
+934,arunachal-pradesh,2022,3,"changlang district",216609,492535245.0550784
+935,arunachal-pradesh,2022,3,"pakke kessang district",12764,26095563.60834673
+936,arunachal-pradesh,2022,3,"dibang valley district",3266,19490605.610856578
+937,arunachal-pradesh,2022,3,"west kameng district",371632,945171308.1838298
+938,arunachal-pradesh,2022,3,"shi yomi district",4909,31175974.40628878
+939,arunachal-pradesh,2022,3,"east siang district",286766,594752976.4068052
+940,arunachal-pradesh,2022,3,"upper subansiri district",77637,256409311.95083195
+941,arunachal-pradesh,2022,3,"east kameng district",52570,166910810.4295592
+942,arunachal-pradesh,2022,3,"lohit district",236792,461745616.9201143
+943,arunachal-pradesh,2022,3,"lepa rada district",38997,105244758.5087227
+944,arunachal-pradesh,2022,3,"tawang district",138313,514855579.7238326
+945,arunachal-pradesh,2022,3,"namsai district",151676,277199997.0357646
+946,arunachal-pradesh,2022,4,"lower dibang valley district",137218,308329533.63406837
+947,arunachal-pradesh,2022,4,"lower subansiri district",143172,339443886.23657525
+948,arunachal-pradesh,2022,4,"longding district",63481,151727225.22689673
+949,arunachal-pradesh,2022,4,"west siang district",176377,449302139.4960692
+950,arunachal-pradesh,2022,4,"kamle district",22093,54695370.469332285
+951,arunachal-pradesh,2022,4,"upper siang district",61031,174436476.513136
+952,arunachal-pradesh,2022,4,"tirap district",88024,205933250.0190781
+953,arunachal-pradesh,2022,4,"papum pare district",1917365,3401999228.9392605
+954,arunachal-pradesh,2022,4,"kurung kumey district",14780,55991360.89182171
+955,arunachal-pradesh,2022,4,"anjaw district",31170,86691809.7433357
+956,arunachal-pradesh,2022,4,"siang district",46250,124012661.78071377
+957,arunachal-pradesh,2022,4,"lower siang district",50212,111700711.05104405
+958,arunachal-pradesh,2022,4,"kra daadi district",19724,69295211.52201861
+959,arunachal-pradesh,2022,4,"changlang district",254818,572195646.772961
+960,arunachal-pradesh,2022,4,"pakke kessang district",15377,28806042.8090343
+961,arunachal-pradesh,2022,4,"dibang valley district",3440,17938501.796178654
+962,arunachal-pradesh,2022,4,"west kameng district",421418,954522716.7333797
+963,arunachal-pradesh,2022,4,"shi yomi district",4926,33977040.52287009
+964,arunachal-pradesh,2022,4,"east siang district",327737,623525449.463265
+965,arunachal-pradesh,2022,4,"upper subansiri district",93017,285077053.9982841
+966,arunachal-pradesh,2022,4,"east kameng district",68774,178064501.28067553
+967,arunachal-pradesh,2022,4,"lohit district",276551,503661703.8315097
+968,arunachal-pradesh,2022,4,"lepa rada district",51416,127294274.35791278
+969,arunachal-pradesh,2022,4,"tawang district",155419,518332824.89263654
+970,arunachal-pradesh,2022,4,"namsai district",188919,307955075.5201911
+971,arunachal-pradesh,2023,1,"lower dibang valley district",256396,537713700
+972,arunachal-pradesh,2023,1,"lower subansiri district",257899,585614438
+973,arunachal-pradesh,2023,1,"longding district",107606,261124844
+974,arunachal-pradesh,2023,1,"west siang district",320064,764188915
+975,arunachal-pradesh,2023,1,"kamle district",40383,92585537
+976,arunachal-pradesh,2023,1,"upper siang district",103335,268653642
+977,arunachal-pradesh,2023,1,"tirap district",157071,368592354
+978,arunachal-pradesh,2023,1,"papum pare district",3302746,5900429571
+979,arunachal-pradesh,2023,1,"kurung kumey district",29127,97772110
+980,arunachal-pradesh,2023,1,"anjaw district",47386,125631329
+981,arunachal-pradesh,2023,1,"siang district",80741,201397801
+982,arunachal-pradesh,2023,1,"lower siang district",95379,206156352
+983,arunachal-pradesh,2023,1,"kra daadi district",39986,133651279
+984,arunachal-pradesh,2023,1,"changlang district",494506,1101499481
+985,arunachal-pradesh,2023,1,"pakke kessang district",29274,53298027
+986,arunachal-pradesh,2023,1,"dibang valley district",6327,28921318
+987,arunachal-pradesh,2023,1,"west kameng district",662521,1414404520
+988,arunachal-pradesh,2023,1,"shi yomi district",6633,38151814
+989,arunachal-pradesh,2023,1,"east siang district",535198,990989057
+990,arunachal-pradesh,2023,1,"upper subansiri district",179629,533663642
+991,arunachal-pradesh,2023,1,"east kameng district",150931,375398867
+992,arunachal-pradesh,2023,1,"lohit district",483285,870836418
+993,arunachal-pradesh,2023,1,"lepa rada district",91748,200811427
+994,arunachal-pradesh,2023,1,"tawang district",239151,724541898
+995,arunachal-pradesh,2023,1,"namsai district",325503,518550113
+996,arunachal-pradesh,2023,2,"lower dibang valley district",320847,641502543
+997,arunachal-pradesh,2023,2,"lower subansiri district",341107,689315626
+998,arunachal-pradesh,2023,2,"longding district",130522,285288333
+999,arunachal-pradesh,2023,2,"west siang district",450143,970914462
+1000,arunachal-pradesh,2023,2,"kamle district",55865,106363865
