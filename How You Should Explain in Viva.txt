@@ -1,0 +1,19 @@
+How You Should Explain in Viva
+
+Explain like this:
+
+Step 1
+
+I created a MySQL table using queries.sql to store PhonePe transaction data.
+
+Step 2
+
+Then I used etl.py to extract JSON data and load it into MySQL database.
+
+Step 3
+
+Finally I built a Streamlit dashboard using app.py to visualize insights like:
+
+Top states by transaction
+
+Year-wise growth.
