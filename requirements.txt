@@ -2,9 +2,3 @@ streamlit
 pandas
 plotly
 mysql-connector-python
-numpy
-<<<<<<< HEAD
-sqlalchemy
-=======
-sqlalchemy
->>>>>>> b4640f5b31e6762847901c56ebfc23b04e9b0755
