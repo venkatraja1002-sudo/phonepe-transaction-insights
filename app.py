@@ -2,15 +2,15 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# ======================================
+
 # Page setup
-# ======================================
+
 st.set_page_config(page_title="PhonePe Transaction Insights", layout="wide")
 st.title("📊 PhonePe Transaction Insights Dashboard")
 
-# ======================================
+
 # Load CSV files
-# ======================================
+
 @st.cache_data
 def load_data():
     aggregated_df = pd.read_csv("aggregated_transaction.csv")
@@ -27,9 +27,8 @@ def load_data():
 
 aggregated_df, map_df, pincode_df = load_data()
 
-# ======================================
 # Sidebar filters
-# ======================================
+
 st.sidebar.header("Filters")
 
 year_list = sorted(aggregated_df["year"].dropna().unique().tolist())
@@ -49,9 +48,9 @@ menu = st.sidebar.selectbox(
     ]
 )
 
-# ======================================
+
 # Filter helper
-# ======================================
+
 def apply_filters(df):
     filtered_df = df.copy()
 
@@ -68,9 +67,8 @@ filtered_aggregated = apply_filters(aggregated_df)
 filtered_map = apply_filters(map_df)
 filtered_pincode = apply_filters(pincode_df)
 
-# ======================================
 # State coordinates for map
-# ======================================
+
 state_coords = pd.DataFrame([
     ["andaman-&-nicobar-islands", 11.7401, 92.6586],
     ["andhra-pradesh", 15.9129, 79.7400],
@@ -110,9 +108,9 @@ state_coords = pd.DataFrame([
     ["west-bengal", 22.9868, 87.8550]
 ], columns=["state", "lat", "lon"])
 
-# ======================================
+
 # Overview
-# ======================================
+
 if menu == "Overview":
     st.subheader("Project Overview")
 
@@ -157,9 +155,9 @@ if menu == "Overview":
     )
     st.plotly_chart(fig2, use_container_width=True)
 
-# ======================================
+
 # Payment Categories
-# ======================================
+
 elif menu == "Payment Categories":
     st.subheader("Payment Category Analysis")
 
@@ -188,9 +186,9 @@ elif menu == "Payment Categories":
 
     st.dataframe(category_df, use_container_width=True)
 
-# ======================================
+
 # State Analysis
-# ======================================
+
 elif menu == "State Analysis":
     st.subheader("State Level Analysis")
 
@@ -232,9 +230,9 @@ elif menu == "State Analysis":
 
     st.dataframe(state_df, use_container_width=True)
 
-# ======================================
+
 # District Analysis
-# ======================================
+
 elif menu == "District Analysis":
     st.subheader("District Level Analysis")
 
@@ -289,9 +287,9 @@ elif menu == "District Analysis":
 
     st.dataframe(district_df, use_container_width=True)
 
-# ======================================
+
 # Pincode Analysis
-# ======================================
+
 elif menu == "Pincode Analysis":
     st.subheader("Pincode Level Analysis")
 
