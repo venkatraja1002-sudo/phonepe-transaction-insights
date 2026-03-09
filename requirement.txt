@@ -1,4 +1,6 @@
-pandas
-mysql-connector-python
 streamlit
+pandas
 plotly
+mysql-connector-python
+numpy
+sqlalchemy
